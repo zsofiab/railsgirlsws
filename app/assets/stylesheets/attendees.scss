@@ -1,0 +1,10 @@
+// Place all the styles related to the attendees controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+table.attendies
+{
+  width:100%;
+  td, th {
+    padding:25px;
+  }
+}
